@@ -43,29 +43,16 @@
 * 🚀 Building **Chimarchet**
 
 </td>
-</tr>
-</table>
-
----
+<td width="50%" valign="top">
 
 ### 🛠️ Experience
 
-<table>
-<tr>
-<td>🛒 <b>Tovana Store</b></td>
-<td>E-commerce Platform</td>
-</tr>
-<tr>
-<td>📝 <b>Electronic Contract System</b></td>
-<td>Digital Contract Platform</td>
-</tr>
-<tr>
-<td>📊 <b>Community Survey Platform</b></td>
-<td>Online Survey System</td>
-</tr>
-<tr>
-<td>🚀 <b>Chimarchet</b></td>
-<td>Startup Project</td>
+* 📝 Electronic Contract System
+* 📊 Community Survey Platform
+* 🚀 Chimarchet**Startup Project**
+
+
+</td>
 </tr>
 </table>
 
@@ -90,8 +77,6 @@
 
 ---
 
-### 🎯 Philosophy
-
 > **Code is not just about solving problems — it's about building products that create value.**
 
 ---
@@ -100,10 +85,5 @@
 
 ### 📫 Open to opportunities & collaborations
 
-**Email:** [samy13116m.a.r@gmail.com](mailto:samy13116m.a.r@gmail.com) · **WhatsApp:** AhmadniaDev
-
-<br>
-
-**Building today. Improving tomorrow. 🚀**
 
 </div>
