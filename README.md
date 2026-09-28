@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmadnia
 
-<!--
-**AhmadniaDev/AhmadniaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer · .NET / C# · Backend Focused**
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Stack
+
+`C#` · `.NET 10` · `ASP.NET Core`
+`Blazor` · `Razor Pages` · `MVC`
+`JavaScript` · `Microservices`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Focus
+
+**Backend Engineering**
+**Clean Architecture**
+**Design Patterns**
+**Query Optimization**
+
+</td>
+</tr>
+</table>
+
+### 🔥 Currently Building
+
+**Chimarchet** — Startup Project
+
+### 💼 Experience
+
+Tovana Store · E-Contracts · Survey Platform
+
+### 📫 Contact
+
+**Email:** [samy13116m.a.r@gmail.com](mailto:samy13116m.a.r@gmail.com)
+**WhatsApp:** `AhmadniaDev`
+
+> *Building software that makes life easier.*
