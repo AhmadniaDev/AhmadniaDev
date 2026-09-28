@@ -8,36 +8,28 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<sub>
-
 ### ⚡ What I Do
 
-**C# · .NET 10 · ASP.NET Core**
-**Blazor · Razor Pages · MVC**
-**JavaScript**
-**Microservices & Distributed Systems**
-**Design Patterns & Clean Architecture**
-**Performance & Query Optimization**
+C# · .NET 10 · ASP.NET Core
+Blazor · Razor Pages · MVC
+JavaScript
+Microservices & Distributed Systems
+Design Patterns & Clean Architecture
+Performance & Query Optimization
 
-*Backend-focused · Full-Stack capable*
-
-</sub>
+**Backend-focused · Full-Stack capable**
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
-<sub>
-
 ### 🚀 Currently
 
-🧩 **Microservice Architecture**
-🏗️ **Design Patterns & Clean Architecture**
-⚡ **Query & Backend Optimization**
-🔥 **Blazor**
-🚀 **Chimarchet — Startup Project**
-
-</sub>
+🧩 Microservice Architecture
+🏗️ Design Patterns & Clean Architecture
+⚡ Query & Backend Optimization
+🔥 Blazor
+🚀 Chimarchet — Startup Project
 
 </td>
 </tr>
@@ -47,40 +39,37 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<sub>
-
 ### 🛠️ Experience
 
-🛒 **Tovana Store** · E-commerce
-📝 **Electronic Contract System**
-📊 **Community Survey Platform**
-🚀 **Chimarchet** · Startup
+🛒 **Tovana Store**
+E-commerce Platform
 
-</sub>
+📝 **Electronic Contract System**
+
+📊 **Community Survey Platform**
+
+🚀 **Chimarchet**
+Startup Project
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
-<sub>
-
 ### 🎯 Philosophy
 
-**Code isn't just about solving problems.**
-*It's about building products that create value.*
+> **Code isn't just about solving problems.**
+> *It's about building products that create value.*
 
 📫 **Open to opportunities**
 📧 **[samy13116m.a.r@gmail.com](mailto:samy13116m.a.r@gmail.com)**
 💬 **WhatsApp: AhmadniaDev**
-
-</sub>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<sub>
-C# · .NET 10 · ASP.NET Core · Blazor · Razor Pages · MVC · JavaScript · Microservices · Design Patterns · Clean Architecture
-</sub>
+<strong>Tech Stack</strong><br><br>
+C# · .NET 10 · ASP.NET Core · Blazor · Razor Pages · MVC · JavaScript<br>
+Microservices · Design Patterns · Clean Architecture
 </p>
