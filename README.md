@@ -8,6 +8,8 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
+<sub>
+
 ### ⚡ What I Do
 
 **C# · .NET 10 · ASP.NET Core**
@@ -19,9 +21,13 @@
 
 *Backend-focused · Full-Stack capable*
 
+</sub>
+
 </td>
 
 <td width="50%" align="center" valign="top">
+
+<sub>
 
 ### 🚀 Currently
 
@@ -31,56 +37,50 @@
 🔥 **Blazor**
 🚀 **Chimarchet — Startup Project**
 
+</sub>
+
 </td>
 </tr>
 </table>
-
----
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
+<sub>
+
 ### 🛠️ Experience
 
-🛒 **Tovana Store**
-*E-commerce Platform*
-
+🛒 **Tovana Store** · E-commerce
 📝 **Electronic Contract System**
-
 📊 **Community Survey Platform**
+🚀 **Chimarchet** · Startup
 
-🚀 **Chimarchet**
-*Startup Project*
+</sub>
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
+<sub>
+
 ### 🎯 Philosophy
 
-> **Code isn't just about solving problems.**
-> **It's about building products that create value.**
+**Code isn't just about solving problems.**
+*It's about building products that create value.*
 
-<br>
-
-📫 **Open to opportunities & collaborations**
-
+📫 **Open to opportunities**
 📧 **[samy13116m.a.r@gmail.com](mailto:samy13116m.a.r@gmail.com)**
-
 💬 **WhatsApp: AhmadniaDev**
+
+</sub>
 
 </td>
 </tr>
 </table>
 
----
-
-### 🧠 Tech Stack
-
 <p align="center">
-
-`C#` · `.NET 10` · `ASP.NET Core` · `Blazor` · `Razor Pages` · `MVC`
-`JavaScript` · `Microservices` · `Design Patterns` · `Clean Architecture`
-
+<sub>
+C# · .NET 10 · ASP.NET Core · Blazor · Razor Pages · MVC · JavaScript · Microservices · Design Patterns · Clean Architecture
+</sub>
 </p>
