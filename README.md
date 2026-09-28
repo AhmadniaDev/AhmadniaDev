@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Microservices-2EA44F?style=flat-square"/>
 <img src="https://img.shields.io/badge/Clean_Architecture-181717?style=flat-square"/>
 <img src="https://img.shields.io/badge/Design_Patterns-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/DDD-0078D4?style=flat-square"/>
 </div>
 
 ---
