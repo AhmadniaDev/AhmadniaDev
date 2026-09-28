@@ -46,7 +46,7 @@
 * 🏗️ Clean Architecture
 * ⚡ Backend Optimization
 * 🔥 Blazor
-* 🚀 Building **Chimarchet**
+* 🚀 Building **ChiMarket**
 
 </td>
 <td width="50%" valign="top">
@@ -55,7 +55,7 @@
 
 * 📝 Electronic Contract System
 * 📊 Community Survey Platform
-* 🚀 Chimarchet**Startup Project**
+* 🚀 ChiMarket **Startup Project**
 
 
 </td>
