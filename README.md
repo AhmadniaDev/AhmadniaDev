@@ -1,75 +1,96 @@
-# Hi there 👋, I'm Ahmadnia
+# 👋 Hi, I'm Ahmadnia
 
-### 💻 Full-Stack Developer | .NET & C#
+### 💻 Full-Stack Developer · .NET & C#
 
-> Building scalable systems, clean architectures, and products that make people's lives easier.
+> **Building scalable systems, clean architectures, and products that make people's lives easier.**
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
+I'm a **Mid-Level Full-Stack Developer** with a strong focus on **Backend Engineering** and the **.NET ecosystem**.
 
-### ⚡ What I Do
+---
 
-C# · .NET 10 · ASP.NET Core
-Blazor · Razor Pages · MVC
-JavaScript
-Microservices & Distributed Systems
-Design Patterns & Clean Architecture
-Performance & Query Optimization
+## ⚡ What I Do
 
-**Backend-focused · Full-Stack capable**
+* 🔹 **C# / .NET 10 / ASP.NET Core**
+* 🔹 **Blazor / Razor Pages / MVC**
+* 🔹 **JavaScript**
+* 🔹 **Microservices & Distributed Systems**
+* 🔹 **Design Patterns & Clean Architecture**
+* 🔹 **Performance & Query Optimization**
+* 🔹 Backend-focused · Full-Stack capable
 
-</td>
+---
 
-<td width="50%" align="center" valign="top">
+## 🚀 Currently
 
-### 🚀 Currently
+I'm currently diving deeper into:
 
-🧩 Microservice Architecture
-🏗️ Design Patterns & Clean Architecture
-⚡ Query & Backend Optimization
-🔥 Blazor
-🚀 Chimarchet — Startup Project
+* 🧩 **Microservice Architecture**
+* 🏗️ **Design Patterns & Clean Architecture**
+* ⚡ **Query & Backend Optimization**
+* 🔥 **Blazor**
+* 🚀 Building **Chimarchet**, a startup project
 
-</td>
-</tr>
-</table>
+---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
+## 🛠️ Experience
 
-### 🛠️ Experience
+| Project                           | Description                          |
+| --------------------------------- | ------------------------------------ |
+| 🛒 **Tovana Store**               | E-commerce platform                  |
+| 📝 **Electronic Contract System** | Digital contract management platform |
+| 📊 **Community Survey Platform**  | Online community survey system       |
+| 🚀 **Chimarchet**                 | Startup project                      |
 
-🛒 **Tovana Store**
-E-commerce Platform
+---
 
-📝 **Electronic Contract System**
+## 🧠 Tech Stack
 
-📊 **Community Survey Platform**
+### Backend
 
-🚀 **Chimarchet**
-Startup Project
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
-</td>
+### Frontend
 
-<td width="50%" align="center" valign="top">
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge\&logo=blazor\&logoColor=white)
+![Razor](https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### 🎯 Philosophy
+### Architecture & Engineering
 
-> **Code isn't just about solving problems.**
-> *It's about building products that create value.*
+![Microservices](https://img.shields.io/badge/Microservices-Distributed_Systems-2EA44F?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-181717?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-0078D4?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Performance-Optimization-orange?style=for-the-badge)
 
-📫 **Open to opportunities**
-📧 **[samy13116m.a.r@gmail.com](mailto:samy13116m.a.r@gmail.com)**
-💬 **WhatsApp: AhmadniaDev**
+---
 
-</td>
-</tr>
-</table>
+## 🎯 My Philosophy
 
-<p align="center">
-<strong>Tech Stack</strong><br><br>
-C# · .NET 10 · ASP.NET Core · Blazor · Razor Pages · MVC · JavaScript<br>
-Microservices · Design Patterns · Clean Architecture
-</p>
+> **Code is not just about solving problems — it's about building products that create value.**
+
+I care about writing software that is:
+
+**Clean · Maintainable · Scalable · Performant · Valuable**
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **interesting opportunities, collaborations, and challenging projects.**
+
+📧 **Email:** [samy13116m.a.r@gmail.com](mailto:samy13116m.a.r@gmail.com)
+
+💬 **WhatsApp:** AhmadniaDev
+
+---
+
+<div align="center">
+
+### 💻 Backend-focused. Full-Stack capable. Product-minded.
+
+**Building today. Improving tomorrow. 🚀**
+
+</div>
