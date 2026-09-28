@@ -60,16 +60,7 @@
 </tr>
 </table>
 
-
 ---
-
+#### 📫 Open to opportunities & collaborations
 > **Code is not just about solving problems — it's about building products that create value.**
 
----
-
-<div align="center">
-
-### 📫 Open to opportunities & collaborations
-
-
-</div>
