@@ -27,14 +27,11 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ What I Do
+### 🛠️ Experience
 
-* **C# / .NET 10 / ASP.NET Core**
-* **Blazor / Razor Pages / MVC**
-* **JavaScript**
-* **Microservices & Distributed Systems**
-* **Clean Architecture & Design Patterns**
-* **Performance & Query Optimization**
+* 📝 Electronic Contract System
+* 📊 Community Survey Platform
+* 🚀 ChiMarket **Startup Project**
 
 </td>
 
@@ -47,16 +44,6 @@
 * ⚡ Backend Optimization
 * 🔥 Blazor
 * 🚀 Building **ChiMarket**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Experience
-
-* 📝 Electronic Contract System
-* 📊 Community Survey Platform
-* 🚀 ChiMarket **Startup Project**
-
 
 </td>
 </tr>
