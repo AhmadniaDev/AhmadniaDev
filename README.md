@@ -33,6 +33,8 @@
 * 📝 Electronic Contract System
 * 📊 Community Survey Platform
 * 🚀 ChiMarket **Startup Project**
+* 🛒 **TavanaStore** 
+
 
 </td>
 
