@@ -7,7 +7,7 @@
 **Backend-focused · Full-Stack capable · Product-minded**
 
 [![Email](https://img.shields.io/badge/Email-ahmadniadev%40gmail.com-red?style=flat-square\&logo=gmail\&logoColor=white)](mailto:samy13116m.a.r@gmail.com)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_11-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square\&logo=blazor\&logoColor=white)
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
